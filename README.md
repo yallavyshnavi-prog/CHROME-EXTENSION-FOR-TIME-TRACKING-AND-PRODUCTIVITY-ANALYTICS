@@ -21,4 +21,6 @@ The background script is a crucial part of the extension. It continuously monito
 
 *OUTPUT*
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e4c985f9-036d-42bd-be91-80c6daea1bb1" />
+
 
